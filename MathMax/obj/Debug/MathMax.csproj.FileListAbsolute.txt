@@ -1,0 +1,16 @@
+C:\Users\55\Desktop\Math\MathMax\MathMax\bin\Debug\MathMax.exe.config
+C:\Users\55\Desktop\Math\MathMax\MathMax\bin\Debug\MathMax.exe
+C:\Users\55\Desktop\Math\MathMax\MathMax\bin\Debug\MathMax.pdb
+C:\Users\55\Desktop\Math\MathMax\MathMax\obj\Debug\MathMax.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\Math\MathMax\MathMax\obj\Debug\MathMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\55\Desktop\Math\MathMax\MathMax\obj\Debug\MathMax.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\Math\MathMax\MathMax\obj\Debug\MathMax.exe
+C:\Users\55\Desktop\Math\MathMax\MathMax\obj\Debug\MathMax.pdb
+C:\Users\55\Desktop\MathMax\MathMax\bin\Debug\MathMax.exe.config
+C:\Users\55\Desktop\MathMax\MathMax\bin\Debug\MathMax.exe
+C:\Users\55\Desktop\MathMax\MathMax\bin\Debug\MathMax.pdb
+C:\Users\55\Desktop\MathMax\MathMax\obj\Debug\MathMax.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\MathMax\MathMax\obj\Debug\MathMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\55\Desktop\MathMax\MathMax\obj\Debug\MathMax.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\MathMax\MathMax\obj\Debug\MathMax.exe
+C:\Users\55\Desktop\MathMax\MathMax\obj\Debug\MathMax.pdb
